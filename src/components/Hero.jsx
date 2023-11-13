@@ -22,7 +22,7 @@ export default function Hero(){
   </div>
   <div className="w-1/2 flex justify-center items-center">
     <div className="h-500 w-500 rounded-full overflow-hidden">
-      <img src="src/assets/img/school.png" alt="Gambar Profil" className="object-cover w-full h-full hidden md:block" />
+      <img src="public/img/school.png" alt="Gambar Profil" className="object-cover w-full h-full hidden md:block" />
     </div>
   </div>
 </div>

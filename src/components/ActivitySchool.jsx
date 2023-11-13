@@ -1,10 +1,10 @@
 export default function ActivitySchool(){
 const items = [
-{ name : "Family Gathering", desc : "sadasadadad ", src : "src/assets/img/activity/1.png", width: 150, height: 270},
-{ name : "Kegiatan Bakti Anak", desc : "sadasadadad ", src : "src/assets/img/activity/2.png", width: 250, height: 400},
-{ name : "Wisuda Murid 2023", desc : "sadasadadad ", src : "src/assets/img/activity/3.png", width: 350, height: 500},
-{ name : "Kejuaraan Nasional", desc : "sadasadadad ", src : "src/assets/img/activity/4.png", width: 250, height: 400},
-{ name : "Futsal 2023", desc : "sadasadadad ", src : "src/assets/img/activity/5.png", width: 150, height: 270},
+{ name : "Family Gathering", desc : "sadasadadad ", src : "public/img/activity/1.png", width: 150, height: 270},
+{ name : "Kegiatan Bakti Anak", desc : "sadasadadad ", src : "public/img/activity/2.png", width: 250, height: 400},
+{ name : "Wisuda Murid 2023", desc : "sadasadadad ", src : "public/img/activity/3.png", width: 350, height: 500},
+{ name : "Kejuaraan Nasional", desc : "sadasadadad ", src : "public/img/activity/4.png", width: 250, height: 400},
+{ name : "Futsal 2023", desc : "sadasadadad ", src : "public/img/activity/5.png", width: 150, height: 270},
 ]
 return(
 <>

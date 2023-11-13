@@ -7,7 +7,7 @@ export default function Footer(){
   <aside>
   <img
                     className="h-30 w-auto"
-                    src="src/assets/img/logo_smk.png"
+                    src="public/img/logo_smk.png"
                     alt="Your Company"
                   />
     <p>SMK LearningX<br/>Dikembangkan oleh Tim LearningX<br/><small>Untuk bahan ajar LearningX</small></p>
