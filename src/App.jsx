@@ -1,11 +1,11 @@
 import { useState } from 'react'
 import './App.css'
-import CallToAction from './components/CTA'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import About from './components/About'
 import Facility from './components/Facility'
-import ActivitySchool from './components/ActivitySchool'
+import Faq from './components/Faq'
+import Footer from './components/Footer'
 function App() {
 
   return (
@@ -14,8 +14,8 @@ function App() {
       <Hero/>
       <About/>
       <Facility/>
-      {/* <ActivitySchool/> */}
-       <CallToAction />
+      <Faq/>
+      <Footer/>
     </>
   )
 }
